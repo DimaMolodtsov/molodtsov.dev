@@ -1,0 +1,8 @@
+{
+  "card": {
+    "name": "Дмитрий Молодцов",
+    "jobTitle": "Frontend-разработчик",
+    "qrAlt": "QR-код со ссылкой на molodtsov.dev"
+  },
+  "header": { "language": "Язык" }
+}
